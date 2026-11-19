@@ -8,3 +8,5 @@ bike = Bike('Unicorn', 2019, 1000)
 
 print('The rent is ' ,car.calculate_rent())
 print('The rent is ' ,bike.calculate_rent())
+car.display_details()
+bike.display_details()
